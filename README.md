@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinicius Rodrigues de Toledo! 👋  
+# Olá, me chamo Vinicius Rodrigues de Toledo! 👋  
 
 Sou estagiário **DevOps** na **Platform Builders**, engajado no desenvolvimento de soluções tecnológicas e automação.  
 Minha experiência inclui o uso de ferramentas como **Docker** 🐳, **GitHub Actions** ⚙️, **Linux** 🐧  
@@ -13,7 +13,9 @@ Tenho uma base de conhecimento em **CI/CD** 🔄 e automação de pipelines de b
   - GitHub Actions ⚙️  
   - Linux 🐧  
   - GCP ☁️ e AWS ☁️  
-- 📚 **Estudando**: Kubernetes 📦 e Python 🐍  
+- 📚 **Estudando**:  
+  - Kubernetes 📦  
+  - Python 🐍  
 - 🤝 **Como eu trabalho**:  
   - Colaboração em equipe 👥  
   - Foco na automação de processos 🔄, como pipelines de build e deploy  
